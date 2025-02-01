@@ -21,7 +21,7 @@ This project is a **Tourism Exploration Website** designed to provide an interac
 - **Bootstrap**: A responsive front-end framework for quickly building mobile-first websites.
 - **jQuery & Popper.js**: Required for managing Bootstrap components like carousels and tooltips.
 
-# Main Page  
+# 1. Main Page  
 
 This is a **Tourism Website** that allows users to explore famous travel destinations. The homepage introduces the theme of tourism and invites users to plan their trips. Users can navigate through different sections to discover **popular tourist attractions**, including the **Taj Mahal, Golden Temple, Mysore Palace, and Varanasi Temple**. The page is designed with an interactive layout using **Bootstrap** and includes a carousel for viewing detailed images of each location.
 
@@ -29,12 +29,26 @@ This is a **Tourism Website** that allows users to explore famous travel destina
 
 
 
-# Favorite Places - Tourism Website  
+# 2. Favorite Places 
 
 This page showcases a collection of **popular tourist destinations** that users can explore. It features well-known attractions such as the **Taj Mahal, Golden Temple, Mysore Palace, and Varanasi Temple**. Each destination is presented with a brief description and an image, allowing users to click on their preferred location to view more details. The page is built using **Bootstrap** for responsiveness and includes an interactive navigation system for seamless user experience.
 
 
 ![image](https://github.com/user-attachments/assets/0a14e492-2aa0-4805-9498-145ec8bbd306)
+
+
+# 3. Detailed View
+
+This page provides an in-depth look at selected **tourist destinations**, including the **Taj Mahal, Golden Temple, Mysore Palace, and Varanasi Temple**. Each location features a **carousel of images** showcasing different views of the site, along with a detailed description highlighting its historical and cultural significance. The page is designed using **Bootstrap** for a smooth and responsive user experience, allowing visitors to navigate back to the **Favorite Places** section easily.
+
+![image](https://github.com/user-attachments/assets/fa925859-f51c-4f5d-80a4-6cd4f15a0cd0)
+
+
+
+
+![image](https://github.com/user-attachments/assets/be4fc8e9-0232-4a8c-b1f4-f2ddb57b9e95)
+
+
 
 
 
