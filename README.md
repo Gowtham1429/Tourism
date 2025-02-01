@@ -41,7 +41,11 @@ This page showcases a collection of **popular tourist destinations** that users 
 
 This page provides an in-depth look at selected **tourist destinations**, including the **Taj Mahal, Golden Temple, Mysore Palace, and Varanasi Temple**. Each location features a **carousel of images** showcasing different views of the site, along with a detailed description highlighting its historical and cultural significance. The page is designed using **Bootstrap** for a smooth and responsive user experience, allowing visitors to navigate back to the **Favorite Places** section easily.
 
-![image](https://github.com/user-attachments/assets/fa925859-f51c-4f5d-80a4-6cd4f15a0cd0)   ![image](https://github.com/user-attachments/assets/be4fc8e9-0232-4a8c-b1f4-f2ddb57b9e95)
+![image](https://github.com/user-attachments/assets/fa925859-f51c-4f5d-80a4-6cd4f15a0cd0) 
+
+
+
+![image](https://github.com/user-attachments/assets/be4fc8e9-0232-4a8c-b1f4-f2ddb57b9e95)
 
 
 
