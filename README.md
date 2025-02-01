@@ -21,6 +21,4 @@ This project is a **Tourism Exploration Website** designed to provide an interac
 - **Bootstrap**: A responsive front-end framework for quickly building mobile-first websites.
 - **jQuery & Popper.js**: Required for managing Bootstrap components like carousels and tooltips.
 
-## Setup Instructions
 
-1. **Clone the Repository**:
