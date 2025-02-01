@@ -21,4 +21,10 @@ This project is a **Tourism Exploration Website** designed to provide an interac
 - **Bootstrap**: A responsive front-end framework for quickly building mobile-first websites.
 - **jQuery & Popper.js**: Required for managing Bootstrap components like carousels and tooltips.
 
+# Tourism Website  
+
+This is a **Tourism Website** that allows users to explore famous travel destinations. The homepage introduces the theme of tourism and invites users to plan their trips. Users can navigate through different sections to discover **popular tourist attractions**, including the **Taj Mahal, Golden Temple, Mysore Palace, and Varanasi Temple**. The page is designed with an interactive layout using **Bootstrap** and includes a carousel for viewing detailed images of each location.
+
+![image](https://github.com/user-attachments/assets/0d996cdf-c723-4d01-8b45-b5c1a825c37d)
+
 
